@@ -1,8 +1,14 @@
 # Summary
 
 * [概述](README.md)
+* [Common 篇](Common/README.md)
+    * [前端Club](Common/links.md)
+    * [Markdown手册](Common/markdown.md)
+    * [Git简单入门](Common/git.md)
+    * [HTML特殊字符编码对照表](Common/htmlchar.md)
 * [Chrome 篇](Chrome/README.md)
 * [SublimeText 3 篇](SublimeText3/README.md)
+    * [快速准备](SublimeText3/ready.md)
     * [Emmet](SublimeText3/emmet.md)
 * [HTML 篇](Html/README.md)
 * [CSS 篇](Css/README.md)
@@ -14,3 +20,4 @@
     * [ClassName 命名](Name/classname.md)
 * [图片规范](Name/README.md)
 * [移动端优化](Mobile/README.md)
+
